@@ -26,3 +26,18 @@ int main() {
 }
 
 
+void myFunction();
+
+int main() {
+    myFunction();
+    return 0;
+}
+
+void myFunction() {
+    cout << "Omotola";
+}
+
+
+void anotherFunc(string fname, int age) {
+
+}
