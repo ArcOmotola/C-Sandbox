@@ -1,0 +1,3 @@
+cd "/Users/mac/Documents/C++/" && g++ SANDBOX.c++ -o SANDBOX && "/Users/mac/Documents/C++/"SANDBOX
+exit
+

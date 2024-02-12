@@ -1,0 +1,5 @@
+Roundness, Bounce height, Surface smoothness, Weight, Diamater, ball
+Fur length, Tail length, Whisker count, Eye color, Paw size, cat
+Bark frequency, Tail wagging speed, Nose wetness, Fur color, Ear shape, dog
+Surface area, Material type, Number of legs, Height, Weight capacity, table
+Seat cushion softness, Backrest height, Armrest presence, Material type, chair

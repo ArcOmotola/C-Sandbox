@@ -1,0 +1,4 @@
+
+Roundness, Bounce height, Surface smoothness, Weight, Diameter, ball
+Fur length, Tail length, Whisker count, Eye color, Paw size, cat
+Bark frequency, Tail wagging speed, Nose wetness, Fur color, Ear shape, dog
