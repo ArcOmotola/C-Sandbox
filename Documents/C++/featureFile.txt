@@ -1,5 +1,2 @@
-
-Roundness, Bounce height, Surface smoothness, Weight, Diameter, ball
-Fur length, Tail length, Whisker count, Eye color, Paw size, cat
-
-cd "/Users/mac/Documents/C++/" && g++ ASSIGNMENT_4_LAB.c++ -o ASSIGNMENT_4_LAB && "/Users/mac/Documents/C++/"ASSIGNMENT_4_LAB
+1,1,0.5,0.4,1,1,1,ball
+1,1,1,0,1,1,1,cat
